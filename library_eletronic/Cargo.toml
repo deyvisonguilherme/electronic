@@ -1,0 +1,6 @@
+[package]
+name = "library_eletronic"
+version = "0.1.0"
+authors = ["deyvison <deyvison.guilherme@live.com>"]
+
+[dependencies]
