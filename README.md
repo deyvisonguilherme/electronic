@@ -1,4 +1,4 @@
-<h3>Biblioteca de função para realização de cálculos destinados a área de eletrônica</h3>
+<h3>Biblioteca de funções para cálculos  eletrônicos</h3>
 
 <p>Esta biblioteca abrange as especificações abaixo:</p>
 <ul>
