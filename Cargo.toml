@@ -6,9 +6,8 @@ description = "Biblioteca de cálculos de eletrônica"
 documentation = "..."
 homepage = "..."
 repository = "https://github.com/deyvisonguilherme/library_electronic.git"
-readme = ".."
+readme = "README.md"
 keywords = ["eletrônica","eletronica", "eletronic", "circuito","circuit"]
-license = "(GPL-3.0) https://spdx.org/licenses/AGPL-3.0.html"
-license-file = "..."
+license = "GPL-3.0"
 
 [dependencies]
