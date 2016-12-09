@@ -3,7 +3,7 @@
 <p>Esta biblioteca abrange as seguintes especificações abaixo:</p>
 <ul>
 	<h3>FCC => Fórmulas de Corrente Contínua </h3>
-	<li>Resistência de Um Condutor</li>
+	<li>Resistência de um Condutor</li>
 	<li>Condutância</li>
 	<li>Condutância de um comprimento de fio</li>
 	<li>Influência da temperatura na resistência de um fio</li>
@@ -28,4 +28,29 @@
 	<li>Indutâncias em série</li>
 	<li>Indutâncias em paralelo</li>
 	<li>Indutância mútua</li>
-</dul>
+</ul>
+<ul>
+	<h3> Fórmulas de Corrente Alternada </h3>
+	<li>Frequência e período</li>
+	<li>Frequência Angular ou Cíclica</li>
+	<li>Valor médio</li>
+	<li>Valor Médio Quadrático (RMS)</li>
+	<li>Frequência e Comprimento de Onda</li>
+	<li>Reatância Capacitiva</li>
+	<li>Reatância Indutiva</li>
+	<li>Fator de Qualidade</li>
+	<li>Lei de Ohm para Circuitos AC</li>
+	<li>Circuito RL em série</li>
+	<li>Circuito RC em Série</li>
+	<li>Circuito LC em Série</li>
+	<li>Circuito RLC em série</li>
+	<li>RC em Paralelo</li>
+	<li>Circuito LR em paralelo</li>
+	<li>Circuito LC em paralelo</li>
+	<li>Circuito Ressonante LC</li>
+	<li>Constante de Tempo RC</li>
+	<li>Constante de tempo LC</li>
+	<li>Acoplamento indutivo em transformadores</li>
+	<li>Acoplamento Indutivo Direto</li>
+	<li>Acoplamento Ohmico</li>
+</ul>
