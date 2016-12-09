@@ -10,10 +10,10 @@
 |                     OSC => Osciladores                    |
 +-----------------------------------------------------------+
 */
-pub mod FCC;
-pub mod FCA;
-pub mod FCE;
-pub mod TRA;
-pub mod GCT;
-pub mod FPT;
-pub mod OSC;
+pub mod fcc;
+pub mod fca;
+pub mod fce;
+pub mod tra;
+pub mod gct;
+pub mod fpt;
+pub mod osc;
