@@ -68,7 +68,7 @@
 	<li>O Neper</li>
 </ul>
 <ul>
-	<li>TRA =>Transistores </li>
+	<h3>TRA =>Transistores </h3>
 	<li>Ganho Estático de Corrente (Emissor Comum)</li>
 	<li>Ganho Estático de Correntes (Configuração de Base Comum)</li>
 	<li>Base Comum</li>
