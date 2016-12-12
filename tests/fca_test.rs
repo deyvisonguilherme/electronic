@@ -1,6 +1,6 @@
-extern crate eletronic;
-use eletronic::fca::*;
-use eletronic::fca::joule::*;
+extern crate electronic;
+use electronic::fca::*;
+use electronic::fca::joule::*;
 // use eletronic::fca::potencia::*;
 
 #[test]
