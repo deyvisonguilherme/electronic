@@ -5,7 +5,7 @@
 	<h3>FCC => Fórmulas de Corrente Contínua </h3>
 	<li>Resistência de um Condutor</li>
 	<li>Condutância</li>
-	<li>Condutância de um comprimento de fio</li>
+	<!--<li>Condutância de um comprimento de fio</li>
 	<li>Influência da temperatura na resistência de um fio</li>
 	<li>Lei de Ohm</li>
 	<li>Potência Elétrica</li>
@@ -27,9 +27,9 @@
 	<li>Campo magnético de um solenóide</li>
 	<li>Indutâncias em série</li>
 	<li>Indutâncias em paralelo</li>
-	<li>Indutância mútua</li>
+	<li>Indutância mútua</li>-->
 </ul>
-<ul>
+<!--<ul>
 	<h3>FCA => Fórmulas de Corrente Alternada</h3>
 	<li>Frequência e período</li>
 	<li>Frequência Angular ou Cíclica</li>
@@ -74,4 +74,4 @@
 	<li>Base Comum</li>
 	<li>Emissor Comum</li>
 	<li>Coletor Comum</li>
-</ul>
+</ul>-->
