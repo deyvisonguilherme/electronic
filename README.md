@@ -7,19 +7,19 @@
 	<li>Condutância</li>
 	<!--<li>Condutância de um comprimento de fio</li>
 	<li>Influência da temperatura na resistência de um fio</li>
-	<li>Lei de Ohm</li>
+	<li>Lei de Ohm</li>-->
 	<li>Potência Elétrica</li>
 	<li>Lei de Joule</li>
-	<li>Energia Elétrica</li>
-	<li>Lei de Faraday</li>
+	<!--<li>Energia Elétrica</li>
+	<li>Lei de Faraday</li>-->
 	<li>Resistores em Série</li>
 	<li>Resistores em Paralelo</li>
-	<li>Divisor de Tensão Resistivo</li>
+	<!--<li>Divisor de Tensão Resistivo</li>
 	<li>Divisor de Tensão Resistivo Carregado</li>
 	<li>Primeira Lei de Kirchhoff</li>
-	<li>Segunda Lei de Kirchhoff</li>
+	<li>Segunda Lei de Kirchhoff</li>-->
 	<li>Capacitância</li>
-	<li>Capacitor Plano</li>
+	<!--<li>Capacitor Plano</li>
 	<li>Tensão de Ruptura num Capacitor</li>
 	<li>Energia armazenada num capacitor</li>
 	<li>Capacitores em Paralelo</li>
