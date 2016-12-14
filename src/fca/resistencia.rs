@@ -35,16 +35,10 @@ pub fn f_resisencia_paralelo(v1: Vec<f64>) -> f64 {
 
 // Resistência de circuitos combinados
 pub fn f_resistencia_combinado(v1: Vec<f64>, v2: Vec<f64>) -> f64 {
-    let mut sum_v1: f64 = 0.0;
-    let mut sum_v2: f64 = 0.0;
+    let mut result: f64 = 0.0;
 
     for x in 0..5 {
-        sum_v1 += v1[x];
+        result += v1[x] + v2[x];
     }
-
-    for x in 0..5 {
-        sum_v2 += v2[x];
-    }
-
-    sum_v1 + sum_v2
+    result
 }
