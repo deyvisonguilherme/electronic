@@ -2,4 +2,7 @@ debug/
 deps/
 target/
 .vscode/
+.directory
+.gitignore
+.project
 *.exe

@@ -1,0 +1,6 @@
+language: rust
+script: make all
+rust:
+  - 1.0.0
+  - 1.1.0
+  - 1.13.0
